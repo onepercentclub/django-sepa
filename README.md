@@ -1,0 +1,4 @@
+django-sepa
+===========
+
+Django Sepa
